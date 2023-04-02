@@ -1,0 +1,12 @@
+title: Tanby Dynamics
+email: me@becdetat.com
+description: >-
+  Hardware design, embedded development, and integration
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://tanbydynamics.co"
+github_username:  becdetat
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed

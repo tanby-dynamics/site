@@ -1,0 +1,9 @@
+version: "3"
+services:
+  web:
+    image: tanby-dynamics-home
+    ports:
+      - 5543:80
+
+
+
