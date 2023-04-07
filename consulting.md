@@ -17,7 +17,7 @@ Each project is unique, so we can tailor our quotes to suit the expected outcome
 ### Joint ventures and profit sharing
 We are happy to discuss joint ventures and partial work-for-shares arrangements. Note that we will require a full prospectus in order to evaluate our involvement.
 
-Rebecca is also happy to join company boards, either as a part-owner or in a consultative role. She brings over 20 years of commercial experience as a software developer, a systems integrator, and in the last six or so years as leader and CTO, along with designing complex software system architectures.
+[Rebecca](https://becdetat/about-me) is also happy to join company boards, either as a part-owner or in a consultative role. She brings over 20 years of commercial experience as a software developer, a systems integrator, and in the last six or so years as leader and CTO, along with designing complex software system architectures.
 
 
 
