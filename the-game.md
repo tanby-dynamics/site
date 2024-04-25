@@ -1,7 +1,7 @@
 ---
 layout: page
 title: the game
-permalink: /projects/
+permalink: /the-game/
 ---
 
 ### the game
